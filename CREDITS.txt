@@ -1,0 +1,4 @@
+* pyflesch includes code based on or inspired by Lingua::EN::Syllable by Greg Fast
+  <gdf@imsa.edu> and rhyme by Brian Langenberger <bri@biosci.umn.edu>
+
+* Mich Dubinko removed dependency on gdbm

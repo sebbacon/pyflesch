@@ -1,0 +1,14 @@
+0.1 (2004/03/09)
+----------------
+
+ * First release
+
+0.2 (2005/03/29)
+----------------
+ 
+ * Added changes from Micah Dubinko:
+   * Removed dependency on gdbm
+   * Additionally calculate "grade level"
+   * recognise '?' as a sentence end
+
+ * Created a CHANGES.txt and a CREDITS.txt
